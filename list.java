@@ -15,8 +15,5 @@ public class list<T> {
             this.data = data;
             this.next = null;
         }
-
-        // Getters y setters
-        // ...
     }
 }
